@@ -99,7 +99,7 @@ export default function Home() {
           </div>
       </div>
 
-      <NavbarBottom />
+      <NavbarBottom/>
     </main>
   );
 }
